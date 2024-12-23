@@ -1,0 +1,1 @@
+This repository demonstrates a bug encountered when using react-native-maps within an Expo managed workflow. The map intermittently fails to render, displaying a blank space instead of the map. The solution involves ensuring that the necessary map provider is correctly configured and the map view has the correct styling and props.
